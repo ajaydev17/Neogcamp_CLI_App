@@ -11,4 +11,4 @@ highScores = [
     }
 ];
 
-module.exports.highScores = highScores;
+module.exports = highScores;
